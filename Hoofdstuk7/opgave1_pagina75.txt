@@ -1,0 +1,5 @@
+<p>Wijzig in de code de drie parameters een paar keer, om het effect van deze wijzigingen te bestuderen. Ga door totdat je de range() functie begrijpt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">for x in range( 1, 11, 2 ):
+    <br>&nbsp; &nbsp; print( x )
+  </span></p>

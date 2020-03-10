@@ -1,0 +1,11 @@
+<p>Geef voor de code hieronder waardes voor a, b, en c die ertoe leiden dat de twee expressies verschillende uitkomsten hebben.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">a = # True of False?</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">b = # True of False?</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">c = # True of False?</span></p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( (a and b) or c )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( a and (b or c) )</span></p>

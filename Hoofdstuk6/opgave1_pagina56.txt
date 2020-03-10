@@ -1,0 +1,6 @@
+<p>Wijzig de waarde van x en test hoe dat de resultaten be&iuml;nvloedt.</p>
+<p><span>x = 7</span>
+  <br><span>if x &lt; 10:</span>
+  <br><span>&nbsp; &nbsp; print( "Deze regel wordt alleen uitgevoerd als x &lt; 10." )</span>
+  <br><span>&nbsp; &nbsp; print( "En dat geldt ook voor deze regel." )</span>
+  <br><span>print( "Deze regel wordt echter altijd uitgevoerd." )</span></p>

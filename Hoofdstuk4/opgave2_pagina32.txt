@@ -1,0 +1,5 @@
+<p>Wat toont de code? Denk erover na, en voer dan de code uit. Zorg dat je snapt wat er gebeurt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">naam = "John Cleese"
+    <br>print( "naam" )
+  </span></p>

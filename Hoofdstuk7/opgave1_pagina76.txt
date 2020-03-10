@@ -1,0 +1,1 @@
+<p>Je hebt al code gecreëerd voor een while loop waarin om vijf getallen wordt gevraagd en het totaal getoond wordt. Doe dat nu met een for loop.</p>

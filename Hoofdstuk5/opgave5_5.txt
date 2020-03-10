@@ -1,0 +1,2 @@
+<p>Stel dat je een geheel toevalgetal tussen 1 en 10 wilt hebben (inclusief 1 en 10), maar je hebt alleen de <span style="font-family: 
+        Comic Sans MS, sans-serif;">random()</span> functie beschikbaar (je mag wel functies uit andere modules gebruiken). Hoe doe je dat?</p>

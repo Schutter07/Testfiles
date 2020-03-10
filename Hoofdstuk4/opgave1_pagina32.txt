@@ -1,0 +1,9 @@
+<p>Wat gebeurt er in de code als je a + c probeert te printen? Als je het niet weet, probeer het dan.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">a = 1
+    <br>b = 4
+    <br>c = "1"
+    <br>d = "4"
+    <br>print( a + b )
+    <br>print( c + d )
+  </span></p>

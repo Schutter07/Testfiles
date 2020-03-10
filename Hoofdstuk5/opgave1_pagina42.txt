@@ -1,0 +1,6 @@
+<p>Wat print de code hieronder? Controleer of je vermoeden klopt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( len( 'man' ) )
+    <br>print( len( 'mango' ) )
+    <br>print( len( "" ) ) # "" is een lege string
+  </span></p>

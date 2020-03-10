@@ -1,0 +1,1 @@
+<p>Gebruik een for loop en een range() functie om veelvouden van 3 af te drukken, beginnend bij 21, aftellend tot 3, in slechts twee regels code.</p>

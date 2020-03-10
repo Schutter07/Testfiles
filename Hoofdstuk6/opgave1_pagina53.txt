@@ -1,0 +1,5 @@
+<p>Begrijp je waarom 3 &lt; 13 <span style="font-family: 
+        Comic Sans MS, sans-serif;">True</span> oplevert, maar "3" &lt; "13" <span style="font-family: 
+        Comic Sans MS, sans-serif;">False</span> oplevert? 
+  <br>Indien niet, denk er dan goed over na!
+</p>

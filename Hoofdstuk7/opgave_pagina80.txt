@@ -1,0 +1,6 @@
+<p>Schrijf een programma dat een reeks getallen doorloopt via een <span style="font-family: 
+        Comic Sans MS, sans-serif;">for</span> loop. Als er een nul wordt aangetroffen in de lijst getallen, dan moet het programma onmiddellijk eindigen, en alleen het woord "Klaar" afdrukken (gebruik een <span style="font-family: 
+        Comic Sans MS, sans-serif;">break</span> om dit te implementeren). Negatieve getallen moeten overgeslagen worden (gebruik een <span style="font-family: 
+        Comic Sans MS, sans-serif;">continue</span> om dit te implementeren; ik weet dat het ook kan met een conditie, maar ik wil dat je oefent met <span style="font-family: 
+        Comic Sans MS, sans-serif;">continue</span>). Als er geen nul in de reeks getallen staat, moet het programma de som van alle positieve getallen afdrukken (doe dit met een <span style="font-family: 
+        Comic Sans MS, sans-serif;">else</span>). Druk altijd "Klaar" af als het programma eindigt. Test het programma met de reeks ( 12, 4, 3, 33, -2, -5, 7, 0, 22, 4 ). Met deze getallen moet het programma alleen "Klaar" afdrukken. Als je de nul verwijdert, moet het programma 85 afdrukken (en "Klaar").</p>

@@ -1,0 +1,8 @@
+<p>Cre&#235;er of download de <span style="font-family: 
+        Comic Sans MS, sans-serif;">pcinput</span> module, zorg dat hij staat in de folder waar je je programma's schrijft, en maak dan een Python programma met onderstaande code. Voer het programma uit en test het door iets in te geven wat geen integer is.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">from pcinput import getInteger
+    <br>num1 = getInteger( "Geef een geheel getal: " )
+    <br>num2 = getInteger( "Geef een ander geheel getal: " )
+    <br>print( num1 , "+", num2 , "=", num1 + num2 )
+  </span></p>

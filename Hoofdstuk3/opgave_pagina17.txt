@@ -1,0 +1,4 @@
+<p>Denk eens na wat er gebeurt als je volgende code zou uitvoeren.</p>
+<p><span style="font-family: 
+        Comic Sans MS,sans-serif;">print( 1,000,000,000 )</span></p>
+<p>Als je voorspelling van wat de code doet niet correct is, probeer dan te bedenken waarom de code deze uitkomst geeft.</p>

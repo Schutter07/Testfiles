@@ -1,0 +1,15 @@
+<p>Wijzig weer de waarde van x en test hoe dat de resultaten be&iuml;nvloedt.</p>
+<p>x = 5
+  <br>if x == 5:
+  <br>&nbsp; &nbsp; print( "x is 5" )
+  <br>if x &gt; 4:
+  <br>&nbsp; &nbsp; print( "x is groter dan 4" )
+  <br>if x &gt;= 5:
+  <br>&nbsp; &nbsp; print( "x is groter dan of gelijk aan 5" )
+  <br>if x &lt; 6:
+  <br>&nbsp; &nbsp; print( "x is kleiner dan 6" )
+  <br>if x &lt;= 5:
+  <br>&nbsp; &nbsp; print( "x is kleiner dan of gelijk aan 5" )
+  <br>if x != 6 :
+  <br>&nbsp; &nbsp; print( "x is niet 6" )
+</p>

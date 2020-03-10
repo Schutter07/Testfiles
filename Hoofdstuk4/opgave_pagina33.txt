@@ -1,0 +1,9 @@
+<p>Wat toont de code? Controleer of je gelijk hebt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">aantal_bananen = 100
+    <br>aantal_bananen += 12
+    <br>aantal_bananen -= 13
+    <br>aantal_bananen *= 19
+    <br>aantal_bananen /= aantal_bananen
+    <br>print( aantal_bananen )
+  </span></p>

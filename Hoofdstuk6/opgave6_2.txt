@@ -1,0 +1,25 @@
+<p>Snap je welke redeneerfout gemaakt is in de volgende code?</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">score = 98.0</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">if score &gt;= 60.0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; oordeel = 'D'</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif score &gt;= 70.0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; oordeel = 'C'</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif score &gt;= 80.0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; oordeel = 'B'</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif score &gt;= 90.0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; oordeel = 'A'</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">else:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; oordeel = 'F'</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( oordeel )</span></p>

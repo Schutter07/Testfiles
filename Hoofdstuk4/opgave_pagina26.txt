@@ -1,0 +1,1 @@
+<p>In het vorige hoofdstuk was er een oefenopgave (opgave pagina 20) die je het aantal seconden in een week liet uitrekenen. Kopieer die berekening in een programma, en ken hem toe aan een variabele. Druk dan de variabele af.</p>

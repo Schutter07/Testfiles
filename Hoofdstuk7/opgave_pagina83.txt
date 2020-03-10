@@ -1,0 +1,40 @@
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">from pcinput import getInteger
+    <br>x = 3
+    <br>y = 7
+    <br>while (x != 0) and (y != 0) and (x%y != 0) and (y%x != 0):
+    <br>&nbsp; &nbsp; x = getInteger( "Geef nummer 1: " )
+    <br>&nbsp; &nbsp; y = getInteger( "Geef nummer 2: " )
+    <br>&nbsp; &nbsp; if (x &gt; 1000) or (y &gt; 1000) or (x &lt; 0) or (y &lt; 0):
+    <br>&nbsp; &nbsp; &nbsp; &nbsp; print( "Nummers moeten tussen 0 en 1000 zijn" )
+    <br>&nbsp; &nbsp; &nbsp; &nbsp; continue
+    <br>&nbsp; &nbsp; print( x, "keer", y, "is", x * y )
+    <br>if x == 0 or y == 0:
+    <br>&nbsp; &nbsp; print( "Klaar!" )
+    <br>else:
+    <br>&nbsp; &nbsp; print( "Fout: de nummers mogen geen delers zijn" )
+  </span></p>
+<p>Bestudeer deze code en maak een lijstje van alles wat je er slecht aan vindt. Als je dat gedaan hebt, lees dan verder en vergelijk je bevindingen met het lijstje hieronder.&nbsp;</p>
+<p>Er zijn veel zaken die ik slecht vind aan deze code. Hier is mijn lijst:</p>
+<ul>
+  <li>Om ervoor te zorgen dat de loop op zijn minst één keer wordt uitgevoerd, moeten x en y geïnitialiseerd worden. Waarom met 3 en 7? Dat is willekeurig, maar ik moest twee getallen nemen die geen delers van elkaar zijn. Anders zou de loop niet zijn gestart. Over het algemeen is het niet netjes om variabelen startwaardes te geven die lijken een betekenis te hebben, terwijl ze er alleen maar zijn om de variabelen te laten bestaan terwijl de waardes betekenisloos zijn. Dat wil je het liefst vermijden.
+    <br>
+    <br>
+  </li>
+  <li>Als je iets ingeeft dat de loop zou moeten beëindigen (bijvoorbeeld nul voor x), dan wordt alsnog de vermenigvuldiging uitgevoerd voordat de loop eindigt. Dat was niet de bedoeling.
+    <br>
+    <br>
+  </li>
+  <li>Als je 0 ingeeft voor x, dan wordt alsnog om y gevraagd, hoewel het niet uitmaakt wat voor waarde voor y wordt ingegeven.
+    <br>
+    <br>
+  </li>
+  <li>De boolean expressie naast de while is nogal complex. In deze code is hij nog wel leesbaar, maar meer eisen aan de getallen maken het behoorlijk onbegrijpelijk.
+    <br>
+    <br>
+  </li>
+  <li>De foutboodschap voor de delers wordt niet gegeven bij de test waar besloten wordt het programma af te breken (dat wil zeggen, de boolean expressie bij de while).</li>
+</ul>
+<p>
+  <br>
+</p>

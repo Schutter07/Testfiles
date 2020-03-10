@@ -1,0 +1,5 @@
+<p>Als je de vorige opgave met een <span style="font-family: 
+        Comic Sans MS, sans-serif;">while</span> loop hebt gedaan, doe hem dan nogmaals met een <span style="font-family: 
+        Comic Sans MS, sans-serif;">for</span> loop. Als je hem met een <span style="font-family: 
+        Comic Sans MS, sans-serif;">for</span> loop hebt gedaan, doe hem dan nogmaals met een <span style="font-family: 
+        Comic Sans MS, sans-serif;">while</span> loop. Als je hem gedaan hebt zonder loop, dan moet je je schamen.</p>

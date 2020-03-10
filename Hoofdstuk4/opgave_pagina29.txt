@@ -1,0 +1,59 @@
+<p>In de code hieronder wordt de waarde 1 toegekend aan een aantal (potenti&#235;le variabele namen. Sommige hiervan zijn correct, andere niet. Identificeer de incorrecte namen en leg uit waarom ze incorrect zijn.</p>
+<p>
+  <br>
+</p>
+<table style="width: 31%; margin-right: calc(69%);">
+  <tbody>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">classificatie = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#1</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Classificatie = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#2</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">cl@ssificatie = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#3</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">class1f1cat1e = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#4</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">1classificatie = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#5</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">_classificatie = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#6</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">class = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#7</td>
+    </tr>
+    <tr>
+      <td style="width: 67.9558%;"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Class = 1</span>
+        <br>
+      </td>
+      <td style="width: 31.4917%;">#8</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <br>
+</p>

@@ -1,0 +1,10 @@
+<p>In de IDLE shell kun je commando’s typen op de “IDLE prompt” (&gt;&gt;&gt;).</p>
+<p>Geef het commando <span style="font-family: 
+        Comic Sans MS,sans-serif;">print(7/4).</span>
+  <br>Je ziet dat de uitkomst 1.75 is.
+</p>
+<p>Geef daarna het commando <span style="font-family: 
+        Comic Sans MS,sans-serif;">7/4</span> (dus zonder <span style="font-family: 
+        Comic Sans MS,sans-serif;">print</span>).
+  <br>Zie nu dat het antwoord ook 1.75 is.
+</p>

@@ -1,0 +1,2 @@
+<p>Het eerste programma dat je als (toekomstig) programmeur in iedere nieuwe taal creëert is het befaamde Hello World programma. In Python bestaat dit uit een enkele regel code namelijk:</p>
+<p><span style="font-family: &quot;Comic Sans MS&quot;, sans-serif;">print( "Hello, world!" )</span></p>

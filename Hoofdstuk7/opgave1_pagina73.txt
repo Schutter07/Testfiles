@@ -1,0 +1,1 @@
+<p>Schrijf code die aftelt. Er wordt begonnen met een specifiek nummer, bijvoorbeeld 10. Dan telt de code af naar nul, waarbij ieder nummer geprint wordt (10, 9, 8, ...). Nul wordt niet geprint, maar in plaats daarvan drukt het programma de tekst "Start!" af.</p>

@@ -1,0 +1,8 @@
+<p>Vraag de gebruiker om drie getallen, en toon dan de grootste, de kleinste, en hun gemiddelde afgerond op twee decimalen.</p>
+<p>Output-voorbeeld:</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Grootste: 5.0</span></p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Kleinste: 1.0</span></p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Gemiddelde: 2.67</span></p>

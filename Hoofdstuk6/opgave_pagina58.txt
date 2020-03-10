@@ -1,0 +1,6 @@
+<p>Je kunt testen of een integer even of oneven is met de modulo operator. Namelijk als <span style="font-family: 
+        Comic Sans MS, sans-serif;">x%2</span> nul is, dan is <span style="font-family: 
+        Comic Sans MS, sans-serif;">x</span> even, en anders is <span style="font-family: 
+        Comic Sans MS, sans-serif;">x</span> oneven. Schrijf code die vraagt om een integer en dan rapporteert of de integer even of oneven is (je kunt de <span style="font-family: 
+        Comic Sans MS, sans-serif;">getInteger()</span> functie van <span style="font-family: 
+        Comic Sans MS, sans-serif;">pcinput</span> gebruiken om om een integer te vragen).</p>

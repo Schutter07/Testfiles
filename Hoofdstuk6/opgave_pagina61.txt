@@ -1,0 +1,5 @@
+<p>Schrijf een programma dat een variabele <span style="font-family: 
+        Comic Sans MS, sans-serif;">gewicht</span> heeft. Als gewicht groter is dan 20 (kilo), print je: "Er moet een toeslag van &#36;25 betaald worden voor bagage die te zwaar is." Als <span style="font-family: 
+        Comic Sans MS, sans-serif;">gewicht</span> kleiner is dan 20, print je: "Goede reis!" Als <span style="font-family: 
+        Comic Sans MS, sans-serif;">gewicht</span> precies 20 is, print je: "Poeh! Dat gewicht is precies goed!" Wijzig de waarde van <span style="font-family: 
+        Comic Sans MS, sans-serif;">gewicht</span> een paar keer om de code te testen.</p>

@@ -1,0 +1,1 @@
+<p>Ik ga geen oefening geven waarin je met een for loop de gebruiker vraagt om getallen totdat de gebruiker nul ingeeft. Waarom niet?</p>

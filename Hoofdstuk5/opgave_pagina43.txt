@@ -1,0 +1,6 @@
+<p>Schrijf code die de gebruiker twee getallen laat ingeven, en die dan toont wat de uitkomst is als je ze optelt en als je ze vermenigvuldigt. Je code mag een runtime error geven als de gebruiker iets ingeeft wat geen getal is.</p>
+<p>Output:</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Som:
+    <br>Product:
+  </span></p>

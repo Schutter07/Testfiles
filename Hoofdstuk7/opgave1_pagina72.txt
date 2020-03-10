@@ -1,0 +1,6 @@
+<p>Maak een loop die de gebruiker een aantal getallen laat ingeven, totdat hij nul ingeeft, en dan het totaal en het gemiddelde afdrukt. Vergeet niet te testen met nul getallen ingeven, en met een aantal keer hetzelfde getal ingeven.</p>
+<p>Voorbeeld-output:</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Totaal = 10
+    <br>Gemiddelde = 5
+  </span></p>

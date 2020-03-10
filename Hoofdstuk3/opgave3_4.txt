@@ -1,0 +1,5 @@
+<p>Hier is een ander illustratief voorbeeld van een runtime error. Voer het programma uit en bestudeer de fout die gemeld wordt. Kun je het probleem oplossen?&nbsp;</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( ((2*3) /4 + (5-6/7) *8 )
+    <br>print( ((12*13) /14 + (15-16)/17) *18 )
+  </span></p>

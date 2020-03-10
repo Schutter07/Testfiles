@@ -1,0 +1,3 @@
+<p>Schrijf code die de oppervlakte van een cirkel berekent, gebruik makend van variabelen <span style="font-family: 
+        Comic Sans MS, sans-serif;">straal</span> en <span style="font-family: 
+        Comic Sans MS, sans-serif;">pi = 3.14159</span>. Voor het geval je het vergeten bent, de formule is straal keer straal keer pi. Toon de uitkomst als volgt: "De oppervlakte van een cirkel met straal ... is ..."</p>

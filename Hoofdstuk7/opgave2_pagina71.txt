@@ -1,0 +1,13 @@
+<p>De eerste voorbeeldcode in dit hoofdstuk vroeg de gebruiker om vijf getallen in te geven. In dat voorbeeld werd steeds de prompt "Geef nummer x: " gebruikt, waarbij x een cijfer is. Kun je de code, waarin een loop gebruikt wordt, zo veranderen dat ook steeds een veranderende prompt wordt gebruikt voor de getallen?</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">from pcinput import getInteger</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">
+    <br>totaal = 0
+    <br>teller = 0
+    <br>while teller &lt; 5:
+    <br>&nbsp; &nbsp; totaal += getInteger( "Geef een nummer: " )
+    <br>&nbsp; &nbsp; teller += 1
+    <br>
+    <br>print( "Totaal is", totaal )
+  </span></p>

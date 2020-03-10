@@ -1,0 +1,12 @@
+<p>Voeg de extra regel toe aan de foute code.</p>
+<p><span style="font-family: &quot;Comic Sans MS&quot;, sans-serif;">nr1 = 5
+    <br>nr2 = 4
+    <br>nr3 = 5
+    <br>print( nr3 / (nr1 % nr2) )
+    <br>nr1 = nr1 + 1
+    <br>print( nr3 / (nr1 % nr2) )
+    <br>nr1 = nr1 + 1
+    <br>print( nr3 / (nr1 % nr2) )
+    <br>nr1 = nr1 + 1
+    <br>print( nr3 / (nr1 % nr2) )
+  </span></p>

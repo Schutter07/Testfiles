@@ -1,0 +1,11 @@
+<p>Kun je een manier bedenken om de inhoud van twee numerieke variabelen om te wisselen zonder daarbij gebruik te maken van een derde hulp-variabele? Basiscode hiervoor is gegeven in het code blok hieronder. Probeer de inhoud van <span style="font-family: 
+        Comic Sans MS, sans-serif;">a</span> en <span style="font-family: 
+        Comic Sans MS, sans-serif;">b</span> te verwisselen zonder een derde variabele erbij te halen. Om je te helpen, is de eerste stap al gegeven. Je hoeft slechts twee regels code toe te voegen.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">a = 17
+    <br>b = 23
+    <br>print( "a =", a, "en b =", b )
+    <br>a += b
+    <br># Voeg hier twee regels toe om a en b om te wisselen
+    <br>print( "a =", a, "en b =", b )
+  </span></p>

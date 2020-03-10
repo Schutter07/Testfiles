@@ -1,0 +1,3 @@
+<p>En wat denk je van de code hieronder? Denk goed na voor je een antwoord geeft.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( len( 'mango\'s' ) )</span></p>

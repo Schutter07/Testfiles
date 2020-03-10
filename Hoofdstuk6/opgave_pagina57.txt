@@ -1,0 +1,22 @@
+<p>De volgende code bevat inspring-fouten. Verbeter de code.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;"># Deze code bevat tabulatie -fouten!</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">x = 3</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">y = 4</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">if x == 3 and y == 4:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "x is 3" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp;print( "y is 4" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">if x &gt; 2 and y &lt; 5:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( "x &gt; 2" )
+    <br>print( "y &lt; 5" )
+    <br>if x &lt; 4 and y &gt; 3:
+    <br>&nbsp; &nbsp; print( "x &lt; 4" )
+    <br>&nbsp; &nbsp; &nbsp; &nbsp; print( "y &gt; 3" )
+  </span></p>

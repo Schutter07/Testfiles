@@ -1,0 +1,8 @@
+<p>Verbeter de code hierboven zodat het geen eindeloze loop meer is.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">nummer = 1
+    <br>totaal = 0
+    <br>while (nummer * nummer) % 1000 != 0:
+    <br>&nbsp; &nbsp; totaal += nummer
+    <br>print( "Totaal is", totaal )
+  </span></p>

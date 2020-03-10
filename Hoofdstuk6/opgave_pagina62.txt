@@ -1,0 +1,25 @@
+<p>Wijzig de waarde van x en controleer de resultaten.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">x = 41</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">if x%7 == 0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; # --- Hier begint een genest blok code ---</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; if x%11 == 0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; print( x, "is deelbaar door 7 en 11." )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; else:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; print( x, "is deelbaar door 7, maar niet door 11." )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; # --- Hier eindigt een genest blok code ---</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif x%11 == 0:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( x, "is deelbaar door 11, maar niet door 7." )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">else:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( x, "is niet deelbaar door 7 of 11." )</span></p>

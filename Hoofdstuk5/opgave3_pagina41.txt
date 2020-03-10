@@ -1,0 +1,13 @@
+<p>Bekijk de code hieronder en bedenk wat er op het scherm getoond wordt. Voer daarna de code uit en controleer of je gelijk hebt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">x = -2
+    <br>y = 3
+    <br>z = 1.27
+  </span></p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">print( abs( x ) )
+    <br>print( max( x, y, z ) )
+    <br>print( min( x, y, z ) )
+    <br>print( pow( x, y ) )
+    <br>print( round( z, 1 ) )
+  </span></p>

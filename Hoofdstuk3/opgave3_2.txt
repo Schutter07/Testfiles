@@ -1,0 +1,2 @@
+<p>Kun je de fouten in de volgende regels code identificeren? Verbeter ze.</p>
+<p><span style="font-family: Comic Sans MS,sans-serif;">print( "Een boodschap" ).<br />print( "Een boodschap' )<br />print( 'Een boodschapf"' )</span></p>

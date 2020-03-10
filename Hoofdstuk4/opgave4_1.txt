@@ -1,0 +1,4 @@
+<p>Definieer drie variabelen <span style="font-family: 
+        Comic Sans MS, sans-serif;">var1</span>, <span style="font-family: 
+        Comic Sans MS, sans-serif;">var2</span> en <span style="font-family: 
+        Comic Sans MS, sans-serif;">var3</span>. Bereken het gemiddelde en stop het in een variabele gemiddelde. Toon het gemiddelde. Voeg drie commentaren toe.</p>

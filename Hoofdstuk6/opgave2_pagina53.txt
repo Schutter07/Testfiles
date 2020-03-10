@@ -1,0 +1,1 @@
+<p>Schrijf code die test of 1/2 groter dan, gelijk aan, of kleiner is dan 0.5. Doe dat ook voor 1/3 en 0.33. Doe het dan ook voor (1/3) * 3 en 1.</p>

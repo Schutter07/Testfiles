@@ -1,0 +1,1 @@
+<p>Vraag de gebruiker om een string in te geven. Gebruik dan die string als prompt om de gebruiker te vragen een float in te geven.</p>

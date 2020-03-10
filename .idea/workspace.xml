@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19b57639-aac8-4fd3-ab9d-9ddc6d98599a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Testing-user-interface/.idea/Testing-user-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing-user-interface/.idea/Testing-user-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Testing-user-interface" />
+  </component>
+  <component name="ProjectId" id="1WzQl4oEwmqbBE3iLyYAjmquNOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk7" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles\Hoofdstuk7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk3" />
+      <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk5" />
+      <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.opgave7_1">
+    <configuration name="opgave1_pagina72" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave1_pagina72.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave1_pagina76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave1_pagina76.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave2_pagina75" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave2_pagina75.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave7_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave_pagina82" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave_pagina82.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.opgave7_1" />
+        <item itemvalue="Python.opgave_pagina82" />
+        <item itemvalue="Python.opgave1_pagina76" />
+        <item itemvalue="Python.opgave2_pagina75" />
+        <item itemvalue="Python.opgave1_pagina72" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Kevin Kenis\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19b57639-aac8-4fd3-ab9d-9ddc6d98599a" name="Default Changelist" comment="" />
+      <created>1579802841766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579802841766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../Testing-user-interface" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="88" y="0" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583831449164">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="88" y="0" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1583831449164" />
+    <state x="398" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580926302143">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="398" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1580926302143" />
+    <state x="391" y="183" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580893803988">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="391" y="183" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.689@0.0.1280.689" timestamp="1580893803988" />
+    <state x="361" y="0" key="#opgave_pagina70" timestamp="1583845019757">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="361" y="0" key="#opgave_pagina70/0.0.1280.689@0.0.1280.689" timestamp="1583845019757" />
+    <state x="193" y="0" key="#user_interface_(3)" timestamp="1583831459668">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="193" y="0" key="#user_interface_(3)/0.0.1280.689@0.0.1280.689" timestamp="1583831459668" />
+    <state x="416" y="157" key="#user_interface_(3)/0.0.2752.1112@0.0.2752.1112" timestamp="1582721155307" />
+    <state x="604" y="87" key="FileChooserDialogImpl" timestamp="1583831409777">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="604" y="87" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583831409777" />
+    <state x="1299" y="140" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1582721122117" />
+    <state width="1259" height="168" key="GridCell.Tab.0.bottom" timestamp="1583848746160">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1583848746160" />
+    <state width="1353" height="304" key="GridCell.Tab.0.bottom/0.0.2752.1112@0.0.2752.1112" timestamp="1583695921322" />
+    <state width="1259" height="168" key="GridCell.Tab.0.center" timestamp="1583848746159">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1583848746159" />
+    <state width="1353" height="304" key="GridCell.Tab.0.center/0.0.2752.1112@0.0.2752.1112" timestamp="1583695921322" />
+    <state width="1259" height="168" key="GridCell.Tab.0.left" timestamp="1583848746159">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1583848746159" />
+    <state width="1353" height="304" key="GridCell.Tab.0.left/0.0.2752.1112@0.0.2752.1112" timestamp="1583695921321" />
+    <state width="1259" height="168" key="GridCell.Tab.0.right" timestamp="1583848746159">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1583848746159" />
+    <state width="1353" height="304" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1583695921322" />
+    <state x="366" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1583845040372">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="366" y="0" width="914" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1583845040372" />
+    <state x="782" y="0" width="1970" height="712" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1582813405713" />
+    <state x="336" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1580151246711">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="336" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1580151246711" />
+  </component>
+</project>

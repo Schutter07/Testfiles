@@ -1,0 +1,4 @@
+<p>De stelling van Pythagoras zegt dat bij een rechthoekige driehoek het kwadraat van de schuine zijde gelijk is aan de som van de kwadraten van de twee andere zijden (ofwel a&#178; + b&#178; = c&#178;). Schrijf een programma dat de gebruiker om de lengte van de twee rechte zijden vraagt, en bereken dan de lengte van de schuine zijde (met andere woorden, trek de wortel uit de som van de kwadraten van de twee rechte zijden). Toon hem op een netjes geformatteerde manier. Je hoeft geen rekening te houden met het feit dat de gebruiker ook negatieve waardes of nul zou kunnen ingeven.</p>
+<p>Output-voorbeeld:</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">Een rechthoekige driehoek met als rechthoekzijden 3.0 en 4.0 heeft als schuine zijde 5.0</span></p>

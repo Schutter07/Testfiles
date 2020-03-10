@@ -1,0 +1,1 @@
+<p>Schrijf code die test van ieder van de klinkers ("a", "e", "i", "o", "u") of ze voorkomen in je naam. Je mag hoofdletters negeren.</p>

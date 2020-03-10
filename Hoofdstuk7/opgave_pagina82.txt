@@ -1,0 +1,1 @@
+<p>Schrijf een programma dat alle paren (i,j) afdrukt, waarbij i en j de waardes 0 tot en met 3 kunnen aannemen, maar ze nooit dezelfde waarde mogen hebben.</p>

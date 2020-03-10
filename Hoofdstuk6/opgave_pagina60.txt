@@ -1,0 +1,23 @@
+<p>Verander in de code de waarde van de variabele leeftijd en bestudeer de resultaten.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">leeftijd = 21</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">if leeftijd &lt; 12:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "Je bent een kind!" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif leeftijd &lt; 18:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "Je bent een teenager!" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif leeftijd &lt; 30:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "Je bent nog jong!" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">elif leeftijd &lt; 50:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "Beginnen grijze haren te komen?" )</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">else:</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">&nbsp; &nbsp; print( "Wegen de jaren zwaar?" )</span></p>

@@ -1,0 +1,5 @@
+<p>Wjzig de code zodat de naam van een bekend lid van Monty Python wordt getoond.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">naam = "John Cleese"
+    <br>print( "naam" )
+  </span></p>

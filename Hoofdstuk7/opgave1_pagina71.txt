@@ -1,0 +1,13 @@
+<p>Wijzig de code zodat niet alleen het totaal maar ook het gemiddelde wordt afgedrukt.</p>
+<p><span style="font-family: 
+        Comic Sans MS, sans-serif;">from pcinput import getInteger</span>
+  <br><span style="font-family: 
+        Comic Sans MS, sans-serif;">
+    <br>totaal = 0
+    <br>teller = 0
+    <br>while teller &lt; 5:
+    <br> totaal += getInteger( "Geef een nummer: " )
+    <br> teller += 1
+    <br>
+    <br>print( "Totaal is", totaal )
+  </span></p>
