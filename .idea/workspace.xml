@@ -47,7 +47,7 @@
       <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles\Hoofdstuk7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.opgave7_16">
+  <component name="RunManager" selected="Python.user_interface">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Testing user interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +61,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="opgave7_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Testfiles" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk7/opgave7_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,13 +153,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="user_interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing-user-interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Testing-user-interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.opgave7_16" />
+        <item itemvalue="Python.user_interface" />
         <item itemvalue="Python.opgave7_15" />
+        <item itemvalue="Python.opgave7_16" />
         <item itemvalue="Python.opgave7_14" />
         <item itemvalue="Python.opgave7_12" />
-        <item itemvalue="Python.opgave7_10" />
       </list>
     </recent_temporary>
   </component>
@@ -225,10 +225,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="361" y="0" key="#opgave_pagina70/0.0.1280.689@0.0.1280.689" timestamp="1583845019757" />
-    <state x="428" y="157" key="#user_interface" timestamp="1583867055863">
+    <state x="428" y="157" key="#user_interface" timestamp="1584206828535">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="428" y="157" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1583867055863" />
+    <state x="428" y="157" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1584206828535" />
     <state x="193" y="0" key="#user_interface_(3)" timestamp="1583831459668">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -239,31 +239,31 @@
     </state>
     <state x="604" y="87" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583831409777" />
     <state x="1299" y="140" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1582721122117" />
-    <state width="1259" height="168" key="GridCell.Tab.0.bottom" timestamp="1584199737391">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1353" height="304" key="GridCell.Tab.0.bottom" timestamp="1584213619140">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="1259" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584199737391" />
-    <state width="1353" height="304" key="GridCell.Tab.0.bottom/0.0.2752.1112@0.0.2752.1112" timestamp="1583871890191" />
-    <state width="1259" height="168" key="GridCell.Tab.0.center" timestamp="1584199737391">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1353" height="304" key="GridCell.Tab.0.bottom/0.0.2752.1112@0.0.2752.1112" timestamp="1584213619140" />
+    <state width="1353" height="304" key="GridCell.Tab.0.center" timestamp="1584213619140">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="1259" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584199737391" />
-    <state width="1353" height="304" key="GridCell.Tab.0.center/0.0.2752.1112@0.0.2752.1112" timestamp="1583871890190" />
-    <state width="1259" height="168" key="GridCell.Tab.0.left" timestamp="1584199737391">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1353" height="304" key="GridCell.Tab.0.center/0.0.2752.1112@0.0.2752.1112" timestamp="1584213619140" />
+    <state width="1353" height="304" key="GridCell.Tab.0.left" timestamp="1584213619140">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="1259" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584199737391" />
-    <state width="1353" height="304" key="GridCell.Tab.0.left/0.0.2752.1112@0.0.2752.1112" timestamp="1583871890190" />
-    <state width="1259" height="168" key="GridCell.Tab.0.right" timestamp="1584199737391">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1353" height="304" key="GridCell.Tab.0.left/0.0.2752.1112@0.0.2752.1112" timestamp="1584213619140" />
+    <state width="1353" height="304" key="GridCell.Tab.0.right" timestamp="1584213619140">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="1259" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584199737391" />
-    <state width="1353" height="304" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1583871890191" />
-    <state x="366" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1584093691221">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1353" height="304" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1584213619140" />
+    <state x="782" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1584206850974">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="366" y="0" width="914" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1584093691221" />
-    <state x="782" y="0" width="1970" height="712" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1583869446020" />
+    <state x="782" y="0" width="1970" height="712" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1584206850974" />
     <state x="336" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1580151246711">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

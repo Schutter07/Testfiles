@@ -17,11 +17,11 @@
 <p>Bestudeer deze code en maak een lijstje van alles wat je er slecht aan vindt. Als je dat gedaan hebt, lees dan verder en vergelijk je bevindingen met het lijstje hieronder.&nbsp;</p>
 <p>Er zijn veel zaken die ik slecht vind aan deze code. Hier is mijn lijst:</p>
 <ul>
-  <li>Om ervoor te zorgen dat de loop op zijn minst één keer wordt uitgevoerd, moeten x en y geïnitialiseerd worden. Waarom met 3 en 7? Dat is willekeurig, maar ik moest twee getallen nemen die geen delers van elkaar zijn. Anders zou de loop niet zijn gestart. Over het algemeen is het niet netjes om variabelen startwaardes te geven die lijken een betekenis te hebben, terwijl ze er alleen maar zijn om de variabelen te laten bestaan terwijl de waardes betekenisloos zijn. Dat wil je het liefst vermijden.
+  <li>Om ervoor te zorgen dat de loop op zijn minst &eacute;&eacute;n keer wordt uitgevoerd, moeten x en y ge&iuml;nitialiseerd worden. Waarom met 3 en 7? Dat is willekeurig, maar ik moest twee getallen nemen die geen delers van elkaar zijn. Anders zou de loop niet zijn gestart. Over het algemeen is het niet netjes om variabelen startwaardes te geven die lijken een betekenis te hebben, terwijl ze er alleen maar zijn om de variabelen te laten bestaan terwijl de waardes betekenisloos zijn. Dat wil je het liefst vermijden.
     <br>
     <br>
   </li>
-  <li>Als je iets ingeeft dat de loop zou moeten beëindigen (bijvoorbeeld nul voor x), dan wordt alsnog de vermenigvuldiging uitgevoerd voordat de loop eindigt. Dat was niet de bedoeling.
+  <li>Als je iets ingeeft dat de loop zou moeten be&euml;indigen (bijvoorbeeld nul voor x), dan wordt alsnog de vermenigvuldiging uitgevoerd voordat de loop eindigt. Dat was niet de bedoeling.
     <br>
     <br>
   </li>
