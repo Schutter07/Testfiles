@@ -1,4 +1,4 @@
-<p>Schrijf een programma dat een tafel van vermenigvuldiging afdrukt voor de cijfers 1 tot en met een zeker getal num (je mag voor de output aannemen dat num één cijfer is). Een tafel van vermenigvuldiging voor 1 tot en met 3 ziet er als volgt uit:</p>
+<p>Schrijf een programma dat een tafel van vermenigvuldiging afdrukt voor de cijfers 1 tot en met een zeker getal num (je mag voor de output aannemen dat num &eacute;&eacute;n cijfer is). Een tafel van vermenigvuldiging voor 1 tot en met 3 ziet er als volgt uit:</p>
 <p><span style="font-family: &quot;Lucida Console&quot;, Monaco, monospace;">. | 1 2 3
     <br>---------
     <br>1 | 1 2 3
