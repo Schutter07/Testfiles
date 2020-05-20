@@ -1,0 +1,2 @@
+<p>Maak een functie die als parameter een getal krijgt, en die dan de tafel van vermenigvuldiging voor 1 tot en met 10 van dat getal afdrukt. Bijvoorbeeld, als de parameter 12 is, dan drukt het programma als eerste regel &quot;1 * 12 = 12&quot; af, en als laatste regel &quot;10 * 12 = 120.&quot;</p>
+<p>Gebruik <span style="font-family: Comic Sans MS, sans-serif;">tafels</span> als naam voor de functie.</p>

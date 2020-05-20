@@ -1,0 +1,1 @@
+<p>Schrijf de functie <span style="font-family: Comic Sans MS, sans-serif;">isOneven()</span>, die bepaalt of een getal oneven is, door de functie <span style="font-family: Comic Sans MS, sans-serif;">isEven()</span> aan te roepen en het resultaat te inverteren.</p>

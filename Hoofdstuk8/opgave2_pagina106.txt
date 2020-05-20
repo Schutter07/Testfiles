@@ -1,0 +1,2 @@
+<p>Schrijf de functie <span style="font-family: Comic Sans MS, sans-serif;">getFractie()</span>.</p>
+<p>Voorbeelden:<br><span style="font-family: Comic Sans MS, sans-serif;">getFractie(3.12) = 0.12<br>getFractie(-12.34) = 0.34</span></p>
