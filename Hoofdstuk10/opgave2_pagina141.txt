@@ -1,0 +1,1 @@
+<p>Neem de string &quot;Niemand verwacht de Spaanse Inquisitie!# In feite, zij die de Spaanse Inquisitie wel verwachten...&quot; en toon hem tot aan, maar niet inclusief, de hash mark (#). Gebruik <span style="font-family: Comic Sans MS, sans-serif;">find()</span> om de index van de hash mark te bepalen.</p>

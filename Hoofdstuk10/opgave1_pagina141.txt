@@ -1,0 +1,1 @@
+<p>In de string &quot;Barbara had een bar, waar ze rabarbar verkocht, en die daarom de rabarbarbarbarabar werd genoemd.&quot; is het woord &quot;rabarber&quot; verkeerd gespeld. Gebruik <span style="font-family: Comic Sans MS, sans-serif;">replace()</span> om alle voorkomende gevallen van deze fout te verbeteren.</p>

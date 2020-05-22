@@ -1,0 +1,2 @@
+<p>Wat is er fout aan de volgende code? Los het probleem op!</p>
+<p><span style="font-family: Comic Sans MS, sans-serif;"># Wat is er fout?<br>def oppervlakte_van_driehoek(basis, hoogte):<br>&nbsp; &nbsp; opp = 0.5 * basis *hoogte<br>&nbsp; &nbsp; print(&quot;Een driehoek met&quot;, basis, &quot;en hoogte&quot;, <br>&nbsp; &nbsp; &nbsp; &nbsp; hoogte, &quot;heeft oppervlakte&quot;, opp)<br><br>print(oppervlakte_van_driehoek(4.5, 1.0))</span></p>

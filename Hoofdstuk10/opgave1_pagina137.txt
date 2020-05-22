@@ -1,0 +1,1 @@
+<p>Schrijf een programma dat van een string de indices print van alle klinkers (a, e, i, o, en u). Dit kan met een <span style="font-family: Comic Sans MS, sans-serif;">for</span> loop of een <span style="font-family: Comic Sans MS, sans-serif;">while</span> loop, maar de <span style="font-family: Comic Sans MS, sans-serif;">while</span> lijkt iets geschikter.</p>

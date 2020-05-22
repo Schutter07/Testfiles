@@ -1,0 +1,2 @@
+<p>De Grerory-Leibnitz reeks benadert de waarde van p door de berekening van 4 * (1/1-1/3+1/5-1/7+1/9...). Schrijf een functie die &pi; benadert via deze reeks. De functie krijgt &eacute;&eacute;n parameter, namelijk een integer die aangeeft hoeveel van de termen tussen de haakjes in de reeks berekend moeten worden.</p>
+<p>Noem de functie <span style="font-family: Comic Sans MS, sans-serif;">leibniz()</span>.</p>

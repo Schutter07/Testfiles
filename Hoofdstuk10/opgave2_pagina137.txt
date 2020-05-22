@@ -1,0 +1,1 @@
+<p>Schrijf een programma dat twee strings gebruikt. Voor ieder teken in de eerste string dat in de tweede string precies hetzelfde teken heeft met precies dezelfde index, druk je het teken en de index af. Pas op voor een &quot;index out of bounds&quot; runtime error. Test met de strings &quot;The Holy Grail&quot; en &quot;Life of Brian&quot;.</p>
