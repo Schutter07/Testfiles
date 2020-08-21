@@ -48,7 +48,7 @@
       <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.opgave11_3">
+  <component name="RunManager" selected="Python.user_interface">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Testing user interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,19 +154,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opgave3_pagina137" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Testfiles" />
+    <configuration name="user_interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing-user-interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Testing-user-interface" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk10/opgave3_pagina137.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.user_interface" />
         <item itemvalue="Python.opgave11_3" />
         <item itemvalue="Python.opgave11_1" />
         <item itemvalue="Python.opgave10_6" />
         <item itemvalue="Python.opgave10_5" />
-        <item itemvalue="Python.opgave3_pagina137" />
       </list>
     </recent_temporary>
   </component>
@@ -209,10 +209,11 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1596267876722" />
-    <state x="199" y="0" key="#user_interface" timestamp="1589971903277">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="428" y="0" key="#user_interface" timestamp="1597993900111">
+      <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="199" y="0" key="#user_interface/0.0.1280.689@0.0.1280.689" timestamp="1589971903277" />
+    <state x="428" y="0" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1597993900111" />
     <state width="1259" height="147" key="GridCell.Tab.0.bottom" timestamp="1597993096528">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

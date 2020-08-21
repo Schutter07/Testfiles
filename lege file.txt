@@ -1,0 +1,4 @@
+<p><span style="font-family: Comic Sans MS, sans-serif;">def main():<br>&nbsp; &nbsp; #Je code komt hier!!!</span></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br></span></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;"><br></span></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;">if __name__ == &#39;__main__&#39;:<br>&nbsp; &nbsp; main()</span></p>
