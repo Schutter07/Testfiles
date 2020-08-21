@@ -1,0 +1,2 @@
+<p>Vermenigvuldiging van twee complexe getallen a + bi en c + di is gedefinieerd als (a*c - b*d) + (a*d + b*c)i. Schrijf een functie die de vermenigvuldiging van twee complexe getallen implementeert.</p>
+<p>Noem de functie <span style="font-family: Comic Sans MS, sans-serif;">vermenigvuldig_complex(getal1, getal2)</span>.</p>

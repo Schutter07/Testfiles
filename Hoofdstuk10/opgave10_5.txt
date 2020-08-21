@@ -1,0 +1,2 @@
+<p>Schrijf een functie dat een string neemt en er een nieuwe string van maakt die precies dezelfde tekens bevat als de originele string, maar in volgorde van hun ASCII codes. Bijvoorbeeld, de string &quot;Hello, world!&quot; geeft als resultaat de string &quot; !,Hdellloorw&quot;. Dit kan vrij gemakkelijk gedaan worden met &quot;list&quot; functies, maar die komen pas aan bod in hoofdstuk 12, dus probeer het nu te doen met string manipulatie.</p>
+<p>Noem de functie <span style="font-family: Comic Sans MS, sans-serif;">orden_string()</span>.</p>

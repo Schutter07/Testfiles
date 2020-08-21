@@ -1,0 +1,1 @@
+<p>Schrijf een <span style="font-family: Comic Sans MS, sans-serif;">for</span> loop die alle elementen van een tuple toont, en die ook hun indices toont.</p>

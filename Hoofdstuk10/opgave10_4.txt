@@ -1,0 +1,3 @@
+<p>Tel in de tekst hieronder hoe vaak het woord &quot;knap&quot; voorkomt (via een programma, natuurlijk). Zowel hoofd- als kleine letters mogen worden gebruikt, en je moet wel bedenken dat het woord &quot;knap&quot; een zelfstanding woord moet zijn, en niet een deel van een ander woord. Hint: Als je netjes alle oefeningen hebt gedaan tot nu toe, heb je al een functie gebouwd die schone woorden uit een tekst haalt.</p>
+<p><br></p>
+<p><span style="font-family: Comic Sans MS, sans-serif;">tekst = &quot;&quot;&quot;Kapper Knap, de knappe kapper, knipt en kapt heel knap, maar de knecht van kapper Knap, de knappe kapper, knipt en kapt nog knapper dan kapper Knap, de knappe kapper.&quot;&quot;&quot;</span></p>

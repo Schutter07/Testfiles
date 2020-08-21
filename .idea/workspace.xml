@@ -37,17 +37,18 @@
     <option name="myUseExistingConsole" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles\Hoofdstuk7" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles" />
       <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles\Hoofdstuk8" />
       <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk3" />
       <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk5" />
       <recent name="C:\Users\Kevin Kenis\PycharmProjects\Testfiles\Hoofdstuk2" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kevin Kenis\Documents\GitHub\Testfiles\Hoofdstuk7" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.opgave3_pagina137">
+  <component name="RunManager" selected="Python.opgave11_3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Testing user interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opgave1_pagina137" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="opgave10_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testfiles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk10/opgave1_pagina137.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk10/opgave10_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opgave2_pagina137" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="opgave10_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testfiles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +103,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk10/opgave2_pagina137.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk10/opgave10_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave11_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk11/opgave11_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave11_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testfiles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk11/opgave11_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,55 +175,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opgave9_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Testfiles" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk9/opgave9_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="opgave9_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Testfiles" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Users\kevin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoofdstuk9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoofdstuk9/opgave9_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.opgave11_3" />
+        <item itemvalue="Python.opgave11_1" />
+        <item itemvalue="Python.opgave10_6" />
+        <item itemvalue="Python.opgave10_5" />
         <item itemvalue="Python.opgave3_pagina137" />
-        <item itemvalue="Python.opgave2_pagina137" />
-        <item itemvalue="Python.opgave1_pagina137" />
-        <item itemvalue="Python.opgave9_5" />
-        <item itemvalue="Python.opgave9_4" />
       </list>
     </recent_temporary>
   </component>
@@ -204,58 +205,33 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="0" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583866965994">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="88" y="0" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1583831449164" />
-    <state x="189" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1583866965994" />
-    <state x="428" y="157" key="#opgave7_3" timestamp="1583869432407">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="428" y="157" key="#opgave7_3/0.0.2752.1112@0.0.2752.1112" timestamp="1583869432407" />
-    <state x="361" y="0" key="#opgave_pagina70" timestamp="1583845019757">
+    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596267876722">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="361" y="0" key="#opgave_pagina70/0.0.1280.689@0.0.1280.689" timestamp="1583845019757" />
+    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1596267876722" />
     <state x="199" y="0" key="#user_interface" timestamp="1589971903277">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="199" y="0" key="#user_interface/0.0.1280.689@0.0.1280.689" timestamp="1589971903277" />
-    <state x="428" y="157" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1584206828535" />
-    <state x="193" y="0" key="#user_interface_(3)" timestamp="1583831459668">
+    <state width="1259" height="147" key="GridCell.Tab.0.bottom" timestamp="1597993096528">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="193" y="0" key="#user_interface_(3)/0.0.1280.689@0.0.1280.689" timestamp="1583831459668" />
-    <state x="416" y="157" key="#user_interface_(3)/0.0.2752.1112@0.0.2752.1112" timestamp="1582721155307" />
-    <state x="604" y="87" key="FileChooserDialogImpl" timestamp="1583831409777">
+    <state width="1259" height="147" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
+    <state width="1259" height="147" key="GridCell.Tab.0.center" timestamp="1597993096528">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="604" y="87" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583831409777" />
-    <state x="1299" y="140" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1582721122117" />
-    <state width="1259" height="150" key="GridCell.Tab.0.bottom" timestamp="1590147685943">
+    <state width="1259" height="147" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
+    <state width="1259" height="147" key="GridCell.Tab.0.left" timestamp="1597993096528">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1590147685943" />
-    <state width="1353" height="304" key="GridCell.Tab.0.bottom/0.0.2752.1112@0.0.2752.1112" timestamp="1584214991564" />
-    <state width="1259" height="150" key="GridCell.Tab.0.center" timestamp="1590147685943">
+    <state width="1259" height="147" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
+    <state width="1259" height="147" key="GridCell.Tab.0.right" timestamp="1597993096528">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1590147685943" />
-    <state width="1353" height="304" key="GridCell.Tab.0.center/0.0.2752.1112@0.0.2752.1112" timestamp="1584214991564" />
-    <state width="1259" height="150" key="GridCell.Tab.0.left" timestamp="1590147685943">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1590147685943" />
-    <state width="1353" height="304" key="GridCell.Tab.0.left/0.0.2752.1112@0.0.2752.1112" timestamp="1584214991564" />
-    <state width="1259" height="150" key="GridCell.Tab.0.right" timestamp="1590147685943">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1590147685943" />
-    <state width="1353" height="304" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1584214991564" />
+    <state width="1259" height="147" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
     <state x="366" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1589972544616">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="366" y="0" width="914" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1589972544616" />
-    <state x="782" y="0" width="1970" height="712" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1584206850974" />
   </component>
 </project>
