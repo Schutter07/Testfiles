@@ -1,0 +1,1 @@
+<p>Denk je dat het een goed idee is om de Fibonacci reeks recursief te implementeren? Waarom, of waarom niet?</p>
