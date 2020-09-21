@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk7" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -212,7 +212,6 @@
     <state x="428" y="0" key="#user_interface" timestamp="1597993900111">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="199" y="0" key="#user_interface/0.0.1280.689@0.0.1280.689" timestamp="1589971903277" />
     <state x="428" y="0" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1597993900111" />
     <state width="2731" height="305" key="GridCell.Tab.0.bottom" timestamp="1598001507410">
       <screen x="0" y="0" width="2752" height="1112" />
@@ -234,9 +233,9 @@
     </state>
     <state width="1259" height="147" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
     <state width="2731" height="305" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1598001507410" />
-    <state x="366" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1589972544616">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1599467415133">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="366" y="0" width="914" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1589972544616" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1599467415133" />
   </component>
 </project>
