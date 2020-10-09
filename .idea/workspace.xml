@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19b57639-aac8-4fd3-ab9d-9ddc6d98599a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Testing-user-interface/.idea/Testing-user-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing-user-interface/.idea/Testing-user-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing-user-interface/user_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Testing-user-interface" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WzQl4oEwmqbBE3iLyYAjmquNOQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk7" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -205,14 +206,13 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596267876722">
+    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602229732086">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1596267876722" />
+    <state x="376" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1602229732086" />
     <state x="428" y="0" key="#user_interface" timestamp="1597993900111">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="199" y="0" key="#user_interface/0.0.1280.689@0.0.1280.689" timestamp="1589971903277" />
     <state x="428" y="0" key="#user_interface/0.0.2752.1112@0.0.2752.1112" timestamp="1597993900111" />
     <state width="2731" height="305" key="GridCell.Tab.0.bottom" timestamp="1598004300078">
       <screen x="0" y="0" width="2752" height="1112" />
@@ -234,9 +234,9 @@
     </state>
     <state width="1259" height="147" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1597993096528" />
     <state width="2731" height="305" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1598004300078" />
-    <state x="366" y="0" width="1970" height="712" key="SettingsEditor" timestamp="1589972544616">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602229717912">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="366" y="0" width="914" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1589972544616" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602229717912" />
   </component>
 </project>
