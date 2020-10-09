@@ -1,0 +1,1 @@
+<p>Sorteer een list van nummers op absolute waarde. Hint: Gebruik de <span style="font-family: Comic Sans MS, sans-serif;">abs()</span> functie als key.</p>

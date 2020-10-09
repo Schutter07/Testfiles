@@ -1,0 +1,2 @@
+<p>Schrijf een programma dat de gebruiker vraagt wat data in te geven, bijvoorbeeld de namen van zijn of haar vrienden. De gebruiker geeft aan te stoppen met data ingeven als alleen Enter wordt ingedrukt. Het programma toont dan alle ingegeven data items, alfabetisch gesorteerd. Print ieder item apart, op een eigen regel.</p>
+<p>Noem functie <span style="font-family: Comic Sans MS, sans-serif;">vriendenlijst()</span>.</p>

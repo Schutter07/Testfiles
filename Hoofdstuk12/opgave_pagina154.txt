@@ -1,0 +1,1 @@
+<p>Schrijf een <span style="font-family: Comic Sans MS, sans-serif;">while</span> loop die elementen van een list afdrukt.</p>
